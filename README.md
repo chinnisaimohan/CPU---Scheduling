@@ -26,6 +26,7 @@ Note: If we use online compilers few may work one line to line and waits for the
 But some other online compilers and VS CODE may not work as easy to my code while giving input. 
 
 So here are the following instructions to give input i.e internal working of the project.
+
 The internal working of your project:
 
 1.Give input as number of processes that you have schedule.
