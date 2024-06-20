@@ -1,5 +1,5 @@
 # CPU---Scheduling
-Using Cpp different mode of CPU scheduling algorithms are coded
+Sample imput and output.
 Sample I/O dispalyed once at a time.
 Enter number of processes: 5
 Enter arrival time and CPU burst time respectively:
