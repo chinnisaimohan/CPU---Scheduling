@@ -4,6 +4,7 @@ Sample I/O dispalyed once at a time.
 Enter number of processes: 5
 
 Enter arrival time and CPU burst time respectively:
+
 0 5
 
 1 3
