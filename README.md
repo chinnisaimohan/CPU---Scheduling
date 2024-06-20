@@ -18,7 +18,7 @@ Navigate to the directory where you want to clone the repository.
 
 Run the following command to clone the repository: git clone https://github.com/chinnisaimohan/CPU---Scheduling.git
 
-Navigate into the cloned repository: cd CPU_SCHEDULER
+Navigate into the cloned repository: cd CPU---Scheduling
 
 Open the project in your preferred code editor: For example, if you're using Visual Studio Code, you can run: code .
 
