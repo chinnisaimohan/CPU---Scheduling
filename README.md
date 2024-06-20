@@ -18,6 +18,7 @@ Open the project in your preferred code editor: For example, if you're using Vis
 
 Running cpp code : Save the code which was named as Code.cpp in main directory in VS Code with a name (for example Code.cpp) . It then compiles the Code.cpp file into an executable (Code.exe) using the g++ compiler. The compiled executable is executed with input.
 Note: If we use online compilers few may work one line to line and waits for the user tio give input and my project is so ease to handle or give input.
+
 But so other online compilers and VS CODE may not work as ease to my code while giving input. So here are the following instructions to give input.
 The internal working of your project:
 1.Give input as number of processes that you have schedule.
