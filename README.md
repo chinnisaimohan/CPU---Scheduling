@@ -40,6 +40,7 @@ Input:
 4 3
 6
 2
+
 Output :
 Enter number of processes: Enter arrival time and CPU burst time respectively:
 Choose type of CPU Scheduling:
