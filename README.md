@@ -1,7 +1,14 @@
 # CPU---Scheduling
-Using Cpp different mode of CPU scheduling algorithms are coded
+Using Cpp different mode of CPU scheduling algorithms are coded 
+
 My PROJECT DOESN'T HAVE FRONTEND AS I DON'T KNOW HTML,CSS,JAVASCRIPT.
+
 Please accept as it's very difficult to learn web devlopment in 2-3 weeks.
+
+This project has 2 branches one "main" and "SampleI/O".
+main: contains 2 files Code.cpp and README.md 
+Code.cpp is for cpp code and README is for instructions as mentioned in forms
+SampleI/O branch conatins README.md file which conatins sample input/output format.
 How to run the project : 
 To clone my repository and work on it locally, you can use the following steps:
 
@@ -24,7 +31,7 @@ The internal working of your project:
 
 1.Give input as number of processes that you have schedule.
 2.Enter arrival time and CPU burst time of the processes respectively.
-3.Choose type of CPU Scheduling: (choose an number)
+3.Choose type of CPU Scheduling: (choose a number)
   1. First Come First Serve (FCFS)
   2. Shortest Job First (preemptive)
   3. Shortest Job First (non-preemptive)
@@ -44,4 +51,4 @@ Learning Takeaways from the Project:
 
 2.Understanding Scheduling Algorithms: Working on the Code.cpp file deepened my understanding of various CPU scheduling algorithms like FCFS, SJF, priority scheduling, and round-robin, and how to implement and test them.
 
-Resources and References used: • I learned about CPU SCHEDULING and the scheduling algorithms from youtube. The playlist which was sent to us in the discord. • Perplexity for assistance with error handling, and overall project guidance.
+Resources and References used: • I learned about CPU SCHEDULING and the scheduling algorithms from youtube. The playlist which was sent to us in the discord. 
