@@ -1,7 +1,6 @@
 # CPU---Scheduling
 Using Cpp different mode of CPU scheduling algorithms are coded 
-
-My PROJECT DOESN'T HAVE FRONTEND AS I DON'T KNOW HTML,CSS,JAVASCRIPT.
+My project doesn't have frontend as I don't know Web devlopment.
 
 Please accept as it's very difficult to learn web devlopment in 2-3 weeks.
 
