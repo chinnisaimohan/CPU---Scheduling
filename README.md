@@ -4,10 +4,6 @@ My project doesn't have frontend as I don't know Web devlopment.
 
 Please accept as it's very difficult to learn web devlopment in 2-3 weeks.
 
-This project has 2 branches one "main" and "SampleI/O".
-main: contains 2 files Code.cpp and README.md 
-Code.cpp is for cpp code and README is for instructions as mentioned in forms
-SampleI/O branch conatins README.md file which conatins sample input/output format.
 How to run the project : 
 To clone my repository and work on it locally, you can use the following steps:
 
@@ -20,6 +16,10 @@ Run the following command to clone the repository: git clone https://github.com/
 Navigate into the cloned repository: cd CPU---Scheduling
 
 Open the project in your preferred code editor: For example, if you're using Visual Studio Code, you can run: code .
+This project has 2 branches one "main" and "SampleI/O".
+main: contains 2 files Code.cpp and README.md 
+Code.cpp is for cpp code and README is for instructions as mentioned in forms
+SampleI/O branch conatins README.md file which conatins sample input/output format.
 
 Running cpp code : Save the code which was named as Code.cpp in main directory in VS Code with a name (for example Code.cpp) . It then compiles the Code.cpp file into an executable (Code.exe) using the g++ compiler. The compiled executable is executed with input.
 Note: If we use online compilers few may work one line to line and waits for the user to give input and my project is so ease to handle or give input.
